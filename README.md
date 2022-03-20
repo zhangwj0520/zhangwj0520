@@ -21,12 +21,12 @@ I'm a front-end developer, have more than three years of experience in web devel
 
 📈  **My github stats**
 
-<p align="center"> 
+<div align="left"> 
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=windego&show_icons=true&&icon_color=ffb300&bg_color=30,e96443,904e95&title_color=fdd835&text_color=fdd835&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=windego&show_icons=true&&icon_color=ffb300&bg_color=30,e96443,904e95&title_color=fdd835&text_color=fdd835&layout=compact" />
 
-  <img width="476" height="176" src="https://github-readme-stats.vercel.app/api/top-langs?username=windego&hide=handlebars&langs_count=8&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="abhisheknaiidu" />
-</p>
+  <img align="left" width="476" height="176" src="https://github-readme-stats.vercel.app/api/top-langs?username=windego&hide=handlebars&langs_count=8&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="abhisheknaiidu" />
+</div>
 
 **My repositories**
 

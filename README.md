@@ -1,24 +1,39 @@
-### Hi there 👋
 
-<!--
-**windego/windego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">👋 Hello! I'm ZhangWeijie.</h2>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: weChat:luffy0520
-- 😄 Pronouns: Windego
-- ⚡ Fun fact: ...
--->
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=windego&show_icons=true&theme=tokyonight" />
+I'm a front-end developer, have more than three years of experience in web development.
 
-- 📫 How to reach me: weChat:luffy0520
-- 😄 Pronouns: Windego
+- 🔭 I’m currently working on **CESTC**
+- 🌱 I'm good at writing clean and high quality standard code.
+- 📫 How to reach me: Wechat(luffy0520)、gmail(zhangweijie@gmail.com).
 
-一个互联网教育行业的即将失业的苦逼的前端攻城狮
+**languages and tools:**  
 
-[源码学习](Source.md)
+- Vue、React.
+- TypeScript、Nodejs、Flutter、Golang.
+- Taro、React Native.
+- Vite、Webpack.
+- AntV、ECharts、Charts.js、d3、threejs.
+
+
+
+
+📈  **My github stats**
+
+<p align="center"> 
+  
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=windego&show_icons=true&&icon_color=ffb300&bg_color=30,e96443,904e95&title_color=fdd835&text_color=fdd835&layout=compact" />
+
+  <img width="476" height="176" src="https://github-readme-stats.vercel.app/api/top-langs?username=windego&hide=handlebars&langs_count=8&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="abhisheknaiidu" />
+</p>
+
+**My repositories**
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=windego&repo=windego)](https://github.com/windego/windegi)
+
+**My learn**
+
+[My learn](Source.md)
+
+

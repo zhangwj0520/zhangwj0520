@@ -2,7 +2,7 @@
 <h2 align="center">👋 Hello! I'm ZhangWeijie.</h2>
 
 
-I'm a front-end developer, have more than three years of experience in web development.
+I'm a front-end developer, have more than four years of experience in web development.
 
 - 🔭 I’m currently working on **CESTC**
 - 🌱 I'm good at writing clean and high quality standard code.

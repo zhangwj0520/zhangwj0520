@@ -6,7 +6,7 @@ I'm a front-end developer, have more than four years of experience in web develo
 
 - 🔭 I’m currently working on **CESTC**
 - 🌱 I'm good at writing clean and high quality standard code.
-- 📫 How to reach me: Wechat(luffy0520)、gmail(zhangweijie@gmail.com).
+- 📫 How to reach me: Wechat(luffy0520)、gmail(zhangwj0520@gmail.com).
 
 **languages and tools:**  
 

@@ -63,7 +63,7 @@ I'm a front-end developer, have more than four years of experience in web develo
 
 **My repositories**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhangwj0520&repo=zhangwj0520)](https://github.com/zhangwj0520/windegi)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhangwj0520&repo=zhangwj0520)](https://github.com/zhangwj0520/zhangwj0520)
 
 📌 **My blog**
 

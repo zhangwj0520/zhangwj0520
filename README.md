@@ -2,7 +2,7 @@
 
 <h2 align="center">👋 Hello! I'm ZhangWeijie.</h2>
 
-I'm a front-end developer, have more than four years of experience in web development.
+I'm a front-end developer, have more than five years of experience in web development.
 
 - 🔭 I’m currently working on **CESTC**
 - 🌱 I'm good at writing clean and high quality standard code.
@@ -57,6 +57,9 @@ I'm a front-end developer, have more than four years of experience in web develo
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhangwj0520&repo=zhangwj0520)](https://github.com/zhangwj0520/zhangwj0520)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhangwj0520&repo=action-qiniu-upload)](https://github.com/zhangwj0520/action-qiniu-upload)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhangwj0520&repo=nextjs-fastapi-202407)](https://github.com/zhangwj0520/nextjs-fastapi-202407)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhangwj0520&repo=aliyun-tools)](https://github.com/zhangwj0520/aliyun-tools)
 
 📌 **My blog**
 
